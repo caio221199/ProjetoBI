@@ -1,0 +1,9 @@
+SUBSTRING([ENDERECO], FINDSTRING([ENDERECO],"-",1) + 2, 50)
+
+FINDSTRING([ENDERECO],"-",1) + 2 - Pega o campo endereço da tabela e acha a primeira ocorrência do "-", ou seja posição 27 + 2 para poder ir até a primeira letra da frase 
+SUBSTRING - pega o campo endereço e apartir da posição 29 achada anteriormente retorna todo o texto até a posção 29 + 50 
+
+
+SUBSTRING([CIDADE_ESTADO], 1, FINDSTRING([CIDADE_ESTADO],"-",1) - 2)
+
+SUBSTRING([CIDADE_ESTADO], FINDSTRING([CIDADE_ESTADO],"-",1) + 2, 50)

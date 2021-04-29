@@ -1,0 +1,9 @@
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\Model.xml
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\refactor.xml
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\postdeploy.sql
+D:\Victorino Vila\770-etl-sql-server\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\predeploy.sql
